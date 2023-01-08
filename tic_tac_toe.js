@@ -62,4 +62,7 @@ const playGame = () => {
   console.log(determineWinner(userChoice, computerChoice));
 };
 
+// launching terminal game
+playGame();
+
 playGame();
